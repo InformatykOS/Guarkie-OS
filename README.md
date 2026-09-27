@@ -4,7 +4,7 @@
 
 This project is a beta version. While it is essentially Debian under the hood, it comes pre-configured with essential compatibility layers.
 
-> **Note:** Guarkie-OS is inspired by the concept of Linexin (developed by Petexy), but built entirely on the rock-solid and stable foundation of Debian instead of Arch Linux.
+> **Note:** projects in beta!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## 🚀 Key Features
 
