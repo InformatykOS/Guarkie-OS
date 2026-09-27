@@ -1,6 +1,6 @@
 # Guarkie-OS 🐧
 
-## Web Page / Strona projektu 🛜
+## Page download / Strona pobrania 🛜
 👉 https://bit.ly/guarkieos
 
 ---
