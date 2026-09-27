@@ -1,24 +1,29 @@
 # Guarkie-OS 🐧
 
-**Guarkie-OS** is a Debian-based Linux distribution fork designed to make transition from Windows smooth and seamless. Everything you need is right at your fingertips.
+## Web Page / Strona projektu 🛜
+👉 https://bit.ly/guarkieos
 
-This project is a beta version. While it is essentially Debian under the hood, it comes pre-configured with essential compatibility layers.
+---
 
-> **Note:** projects in beta!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+### 🇵🇱 Wersja Polska
 
-## 🚀 Key Features
+**Guarkie-OS** to oparty na Debianie fork stworzony z myślą o łatwym przejściu z systemu Windows. 
 
-*   **Wine-HQ** pre-installed and pre-configured to run Windows applications (.exe / .msi) flawlessly.
-*   **Flatpak & Flathub** integration for access to thousands of modern Linux apps.
-*   **Snapd** support enabled out of the box.
+**⚠️ Uwaga:** Projekt jest w wersji BETA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Posiada preinstalowane warstwy kompatybilności .
 
-## 🛠 Development & Known Issues
+* **Główne funkcje:** Preinstalowane Wine-HQ dla aplikacji .exe/.msi, integracja z Flatpak/Flathub oraz wsparcie dla Snapd.
+* **Znane problemy:** Wersja beta może zawierać ślady po programie „Cubic” i znaczniki czasu kompilacji.
 
-Since this is a beta version, you might still see "Cubic" references and compilation timestamps in the system info. As any distro hopper or creator knows—Cubic can be a real pain to clean up completely! 
+---
 
-Feel free to test it, report bugs, and help improve Guarkie-OS.
+### 🇬🇧 English Version
 
-## Web Page 🛜
+**Guarkie-OS** is a Debian-based Linux distribution designed for a seamless transition from Windows.
 
-https://bit.ly/guarkieos
+**⚠️ Note:** Project is in BETA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Comes pre-configured with essential compatibility layers.
 
+* **Key Features:** Pre-installed Wine-HQ for Windows apps, Flatpak & Flathub integration, and Snapd support.
+* **Known Issues:** May still display "Cubic" references and compilation timestamps.
+
+---
+Feel free to test it, report bugs, and help improve Guarkie-OS / Zachęcam do testowania, zgłaszania błędów i pomocy w rozwoju.
