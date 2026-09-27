@@ -18,7 +18,7 @@ Since this is a beta version, you might still see "Cubic" references and compila
 
 Feel free to test it, report bugs, and help improve Guarkie-OS.
 
-### Web Page 🛜
+## Web Page 🛜
 
 https://bit.ly/guarkieos
 
